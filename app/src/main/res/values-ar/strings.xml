@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق امتحان بسيط</string>
+    <string name="question_1_title">السؤال الأول</string>
+    <string name="question1">   أى من هذه الكلمات تستخدم عندما أريد أن كلاس يستخدم انترفاس ؟ </string>
+    <string name="answer_main">main( )</string>
+    <string name="answer_implements">implements</string>
+    <string name="answer_extends">extends</string>
+    <string name="question_2_title">السؤال الثانى</string>
+    <string name="question2">أى من هذه الحزم يتم استخدامها بشكل تلقائى فى برامج الجافا ؟</string>
+    <string name="answer_java_awt_font">java.awt.font</string>
+    <string name="answer_java_awt">java.awt</string>
+    <string name="answer_java_lang">java.lang</string>
+    <string name="question_3_title">السؤال الثالث</string>
+    <string name="question3">ماهى اللغة الرسمية التى يتم استخدامها لتطوير الإندرويد ؟ </string>
+    <string name="question_4_title">السؤال الرابع</string>
+    <string name="question4">أى من هذه الكلمات محجوزة فى  لغة الجافا ؟</string>
+    <string name="answer_true">true</string>
+    <string name="answer_long">long</string>
+    <string name="answer_static">static</string>
+    <string name="answer_end">end</string>
+    <string name="question_5_title">السؤال الخامس</string>
+    <string name="question5">ماهى الأنواع الرئيسية فى لغة الجافا لتخزين أنواع البيانات ؟</string>
+    <string name="answer_int">int</string>
+    <string name="answer_short">short</string>
+    <string name="answer_byte">byte</string>
+    <string name="answer_enum">enum</string>
+    <string name="button_submit">عرض للنتيجة</string>
+    <string name="java_programming"> الجافا</string>
+    <string name="hint_programming_language_for_android">لغة البرمجة المستخدمة لتطوير الإندرويد</string>
+    <string name="correct_answers">الإجابات الصحيحة : </string>
+    <string name="from_5">  من ٥ </string>
+</resources>

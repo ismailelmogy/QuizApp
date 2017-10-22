@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1_title">Question 1</string>
+    <string name="question1">Which Keyword would you use if you wanted a class to use an interface ?</string>
+    <string name="answer_main">main( )</string>
+    <string name="answer_implements">implements</string>
+    <string name="answer_extends">extends</string>
+    <string name="question_2_title">Question 2</string>
+    <string name="question2">Which package is imported by default into java programs ?</string>
+    <string name="answer_java_awt_font">java.awt.font</string>
+    <string name="answer_java_awt">java.awt</string>
+    <string name="answer_java_lang">java.lang</string>
+    <string name="question_3_title">Question 3</string>
+    <string name="question3">What is the main programming language for Android Development ?</string>
+    <string name="question_4_title">Question 4</string>
+    <string name="question4">Which of the following are keywords in Java ?</string>
+    <string name="answer_true">true</string>
+    <string name="answer_long">long</string>
+    <string name="answer_static">static</string>
+    <string name="answer_end">end</string>
+    <string name="question_5_title">Question 5</string>
+    <string name="question5">Which of the following is a primitive data type ?</string>
+    <string name="answer_int">int</string>
+    <string name="answer_short">short</string>
+    <string name="answer_byte">byte</string>
+    <string name="answer_enum">enum</string>
+    <string name="button_submit">submit</string>
+    <string name="java_programming">java</string>
+    <string name="hint_programming_language_for_android">Programming Language for Android</string>
+    <string name="correct_answers">Correct Answers : </string>
+    <string name="from_5">from 5</string>
+
+</resources>
