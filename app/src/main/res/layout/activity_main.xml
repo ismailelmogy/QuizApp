@@ -26,7 +26,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:padding="16dp">
+                android:padding="16dp"
+                android:weightSum="1">
 
                 <TextView
                     style="@style/QuestionTitle"
@@ -71,7 +72,8 @@
                     style="@style/QuestionTitle"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/question_2_title" />
+                    android:text="@string/question_2_title"
+                    android:layout_weight="0.47" />
 
                 <TextView
                     style="@style/QuestionStyle"
